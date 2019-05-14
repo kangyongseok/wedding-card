@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wedding-card/static/css/main.2cce8147.chunk.css",
+    "main.js": "/wedding-card/static/js/main.f08e1378.chunk.js",
+    "main.js.map": "/wedding-card/static/js/main.f08e1378.chunk.js.map",
+    "runtime~main.js": "/wedding-card/static/js/runtime~main.16826a0b.js",
+    "runtime~main.js.map": "/wedding-card/static/js/runtime~main.16826a0b.js.map",
+    "static/js/2.b41502e9.chunk.js": "/wedding-card/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/wedding-card/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/wedding-card/index.html",
+    "precache-manifest.22682f235e50bdfb4a9a3134b7a9bbd9.js": "/wedding-card/precache-manifest.22682f235e50bdfb4a9a3134b7a9bbd9.js",
+    "service-worker.js": "/wedding-card/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/wedding-card/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/wedding-card/static/media/logo.5d5d9eef.svg"
+  }
+}
